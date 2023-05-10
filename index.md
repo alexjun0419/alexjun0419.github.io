@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Alex Jun and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Mathematics, Probability and Statistics concentration.
+This is my home page! My name is Alex Jun and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Mathematics with Probability and Statistics concentration.
 
 ## Computer Science Projects
 
